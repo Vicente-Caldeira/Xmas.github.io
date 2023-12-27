@@ -25,7 +25,7 @@ body, html {
 .top-left { 
     top: 0; 
     left: 0; 
-    width: 20%; /* Adjust the width as needed */
+    width: 35%; /* Adjust the width as needed */
     height: 25%; /* Adjust the height as needed */
 }
 
@@ -39,7 +39,7 @@ body, html {
 .bottom-right { 
     top: 75%; 
     left: 80%; 
-    width: 20%; /* Adjust the width as needed */
+    width: 35%; /* Adjust the width as needed */
     height: 25%; /* Adjust the height as needed */
 }
 
@@ -58,7 +58,7 @@ body, html {
     background-color: rgba(255, 255, 255, 0.8);
     padding: 10px; /* Adjust the padding for smaller screens */
     border-radius: 10px;
-    font-size: 18px; /* Adjust the font size for smaller screens */
+    font-size: 25px; /* Adjust the font size for smaller screens */
     font-family: 'Arial', sans-serif; /* Change the font family here */
 }
 
